@@ -1,0 +1,58 @@
+body {
+    background: rgb(30, 35, 98) no-repeat;
+    background-size: cover;
+  }
+  
+  .box {
+    width: 700px;
+    background: rgba(255, 255, 255, 0.208);
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 4%;
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins';
+    border-radius: 15px;
+    /* box-shadow: 7px 13px 37px black; */
+  }
+  
+  table {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid rgb(0, 0, 0);
+  }
+
+  th {
+    color: white;
+  }
+
+  td {
+    color: white;
+  }
+
+  .Principal {
+    display: inline-block;
+    padding: 10px 10px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    text-decoration: none;
+    position: absolute;
+    top: 86%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+  }
+
+  .Intereses {
+    display: inline-block;
+    padding: 10px 10px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    text-decoration: none;
+    position: absolute;
+    top: 86%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+  }
+
